@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Mades"
 include ':app'
+include ':core'
+include ':data'
+include ':modules:auth'
+include ':modules:chat'
